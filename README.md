@@ -4,7 +4,7 @@ A modern, fully-featured web client for [Music Player Daemon](https://www.musicp
 Vanilla HTML / CSS / ES modules on the frontend, a tiny Node / Express server bridges
 the browser to MPD's TCP protocol.
 
-![Now Playing](docs/now-playing.png)
+![Now Playing](docs/screenshots/now-playing.png)
 
 ## Features
 
@@ -21,11 +21,13 @@ the browser to MPD's TCP protocol.
 
 ## Screenshots
 
-| Now Playing | Albums |
-|-------------|--------|
-| ![now playing](docs/now-playing.png) | ![albums](docs/albums.png) |
+| Now Playing | Queue |
+|-------------|-------|
+| ![Now Playing with album artwork and upcoming tracks](docs/screenshots/now-playing.png) | ![Queue with track artwork and durations](docs/screenshots/queue.png) |
 
-Screenshots use a small synthetic library. See [the review notes](docs/REVIEW.md) for fixes and validation details.
+| Playlists | Albums |
+|-----------|--------|
+| ![Saved playlists with playback and management controls](docs/screenshots/playlists.png) | ![Album library with cover artwork](docs/screenshots/albums.png) |
 
 ## Run
 

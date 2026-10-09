@@ -38,3 +38,10 @@ coverage/
 # Local chat log — this is a working scratchpad for build sessions,
 # not part of the public repo. New sessions create their own.
 CHAT_LOG.md
+
+# Local session documentation and review captures
+/docs/REVIEW.md
+/docs/PROJECT_GUIDE.md
+/docs/albums.png
+/docs/mobile.png
+/docs/now-playing.png
